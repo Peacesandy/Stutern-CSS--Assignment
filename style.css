@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 30px;
+    padding: 10px;
+}
+
+.first-section{
+    color: green;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 14px;
+}
+
+.second-section{
+    color: red;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 14px;
+}
+
+.third-section{
+    color: blue;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 14px;
+}
